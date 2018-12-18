@@ -534,7 +534,6 @@ Pew Research Center: U.S. Politics and Policy (2018, March 1). The Generation Ga
 
 Population Distribution by Race/Ethnicity (2017). The Henry J. Kaiser Family Foundation, San Fransisco, CA. Retrieved from https://www.kff.org/other/state-indicator/distribution-by-raceethnicity/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
 
-
 Sammartino, F. (2017, June 15). Taxes and Income Inequality. Tax Policy Center, Urban Institute and Brookings Institution. Retrieved from https://www.taxpolicycenter.org/sites/default/files/publication/142251/2001310-taxes-and-income-inequality.pdf
 
 Wilkinson, R., & Pickett, K. (2009). The spirit level: Why greater equality makes societies stronger. New York: Bloomsbury.
