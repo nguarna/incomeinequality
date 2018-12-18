@@ -1,6 +1,6 @@
 ---
 title: "BDS 522 FINAL"
-subtitle: "Income Inequality"
+subtitle: "Opinions on income inequality across American demographic groups"
 author: "Natalie Guarna"
 date: "12/19/2018"
 output: html_document
